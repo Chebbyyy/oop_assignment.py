@@ -23,7 +23,7 @@ It contains answers for **Assignment 1** and **Activity 2**, showing how to crea
 ## How to Run
 Clone the repository and run the Python file:
 
-python assignment1_activity2.py
+python oop_assignment.py
 Example Output
 Smartphones:
 This is a Apple iPhone 15 with 256GB storage. 📱
